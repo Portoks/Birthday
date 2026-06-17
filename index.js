@@ -97,8 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
     lines: [
       "Bila si uz mene kroz moje najbolje dane i kroz one najteze i ne mogu da zamislim zivot bez tebe",
       "Na tvoj poseban dan, samo zelim da osetis koliko si stvarno voljena i cenjena",
-      "Zasluzujes svu radost ovog sveta, danas i zauvek",
-      "Nadam se da ce ovaj mali giftic od mene da ti ulepsa dan"
+      "Zasluzujes svu radost ovog sveta, danas i zauvek, nadam se da ce ovaj mali giftic od mene da ti ulepsa dan"
     ],
     duration: 1.5, // Faster typing for better UX
     pauseBetweenLines: 0.4
